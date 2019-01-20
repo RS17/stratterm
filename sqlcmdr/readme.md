@@ -1,4 +1,7 @@
 # sqlcmdr
+
+This is not the official repo.  The offical repo is: https://github.com/RS17/sqlcmdr which may or may not be more up to date than this.
+
 golang package for slightly easier sql commands
 
 This is a working (but also very WIP) package intended for use with sqlite3 that makes it slightly easier to create basic sql select and insert commands for a simple sqlite database while minimizing putting long strings like "SELECT x FROM y" all over your code.  Over time I expect to add more features as I use this for side projects.  In the meantime use at your own risk.
