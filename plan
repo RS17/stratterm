@@ -1,0 +1,32 @@
+- dialog - enter strat
+- store as sqllite
+- dialog - enter investment
+- form - add strategies to investment
+
+
+
+
+
+
+Startegy -< investmentstrategy >- investment >- symbol
+
+be as unix as possible
+
+requires libraries
+-sqlite3
+
+
+process
+1. add strategy
+2. add investment
+3. add strateg(ies) to investment
+
+- backwards compatibility - always be able to process existing columns
+
+
+Todo: 
+Prerelease:
+	- add code review
+Other:
+- add gui
+- add ability to select headers, and select with headers
